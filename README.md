@@ -14,6 +14,7 @@
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  alt="css" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png"  alt="astro" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/java/java.png"  alt="java" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/javascript/javascript.png"  alt="javascript" height="30"></code>
 
 ## Actualmente...
 ![](profile-3d-contrib/profile-night-rainbow.svg)
