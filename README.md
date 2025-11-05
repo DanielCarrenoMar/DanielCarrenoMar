@@ -3,7 +3,7 @@ Desde mis inicios en la programación hace 2 años me he comprometido al máximo
 Lo que más me apasiona es transformar los obstáculos en logros, impulsando el éxito del
 equipo y el cumplimiento de los objetivos.
 
-Me atraen los proyectos que resuelven problemas reales para los usuarios.
+Me atraen los proyectos que resuelven problemas reales para los usuarios. Prueba [**Grader**](https://play.google.com/store/apps/details?id=com.app.grader), mi app para administrar calificaciones.
 
 **🎓 Estudiante de ing. Informática en la UCAB.**
 
