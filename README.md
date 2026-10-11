@@ -3,7 +3,7 @@ Desde mis inicios en la programación hace 4 años, me he comprometido al máxim
 
 Me atraen los proyectos que facilitan el día a día de las personas. 
 - [**Grader**](https://play.google.com/store/apps/details?id=com.app.grader), mi app para administrar calificaciones escolares.
-- [**Materias Internacionales Noticias Bot**](https://t.me/materiasInterNoticiasBot), Bot de Telegram para enterarte de las últimas materias candidatas para electivas internacionales en la UCAB.
+- [**Buscador de Movilidad  Global**](https://movilidadglobal.tech), selecciona tu universidad y mira de forma instantánea todas las opciones de movilidad internacional que dispone según sus convenios.
 
 **🎓 Estudiante de ing. Informática en la UCAB.**
 
