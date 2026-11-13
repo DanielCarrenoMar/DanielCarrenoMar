@@ -1,11 +1,12 @@
 # <img src="./images/logo.png" alt="Logo" title="Logo" style="width: 10%; max-width: 80px;" align="right" /> ![Hello](images/bienvenida.svg)
 Desde mis inicios en la programación hace 4 años, me he comprometido al máximo con cada proyecto. Llevo a la realidad propuestas que resuelven problemas reales.
 
-Me atraen los proyectos que facilitan el día a día de las personas. 
+Me atraen los proyectos que facilitan el día a día de las personas.
+
+Entre mis proyectos estan:
 - [**Grader**](https://play.google.com/store/apps/details?id=com.app.grader), usada por más de 200 estudiantes en la UCAB. Deja de usar la calculadora para llevar tus calificaciones.
 - [**Buscador de Movilidad  Global**](https://movilidadglobal.tech), selecciona tu universidad y mira de forma instantánea todas las opciones de movilidad internacional que dispone según sus convenios.
-
-**🎓 Estudiante de ing. Informática en la UCAB.**
+- [**AutoLoginWifiUCAB**](https://github.com/DanielCarrenoMar/autoLoginUCAB), inicia sesión de forma automática en el sistema wifi de la UCAB Guayana.
 
 ![Pato](./images/pato.jpg)
 
